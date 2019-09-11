@@ -1,6 +1,9 @@
 # Udacity project1 Boston Airbnb data
 Data Scientist Nanodegree Project 1
+Data is provided by Kaggle Dataset https://www.kaggle.com/airbnb/boston/downloads/boston-airbnb-open-data.zip/1
+License CC0: Public Domain
 
+---
 # Questions for this data
 ## 1. What changes the price?
 **We need to check correlation**
