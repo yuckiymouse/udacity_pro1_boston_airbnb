@@ -22,7 +22,7 @@ In the last, we will check if our prediction is right or not with using machine 
 ## 2. How can we get more money from AirBnB business?
  - distributions of properties price
  - 2-1) What makes more booked listings? or less booked listings?
-     - cheap? good environment? good reviews?
+     - cheap?
  - 2-2) What makes good review scores by customers?
 
 ---
