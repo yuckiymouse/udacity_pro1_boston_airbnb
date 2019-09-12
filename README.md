@@ -7,6 +7,9 @@ License CC0: Public Domain
 
 ---
 # How can you sell your properties on Airbnb?
+More travelers go around the world today and the demands for hotels are increased. Using Airbnb could be your side business.
+Then how can you make money from that? We need to analyze the data from well booking and not well booking properties and get some tips.
+
 # Questions for this data
 ## 1. What changes the price?
 **We need to check correlation**
