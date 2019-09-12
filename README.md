@@ -11,8 +11,6 @@ License CC0: Public Domain
 More travelers go around the world today and the demands for hotels are increased. Using Airbnb could be your side business.
 Then how can you make money from that? We need to analyze the data from well booking and not well booking properties and get some tips.
 
-In the last, we will check if our prediction is right or not with using machine learning model from our model.
-
 # Questions for this data
 ## 1. What changes the price?
 **We need to check correlation**
@@ -25,6 +23,13 @@ In the last, we will check if our prediction is right or not with using machine 
      - cheap?
  - 2-2) What makes good review scores by customers?
 
----
-# Machine Learning Model
-- We will use scikit learn to make LinearRegression model.
+# Result
+## Question 1 : What changes the price?
+- location(city), room_type and accommodates effect the change of prices.
+
+## Question 2 : How can we get more money from AirBnB business?
+ - distributions of properties price
+ - **2-1) What makes more booked listings? or less booked listings?**
+     - Can be said properties with under 300 dollars are easier booked
+ - **2-2) What makes good review scores by customers?**
+  - Even not well booked had as good scores as well booked. It seems like no link between how much booked and how good the review is. If you believe the review scores, you can say how much booked doesn't effect on the review scores.
