@@ -10,6 +10,8 @@ License CC0: Public Domain
 More travelers go around the world today and the demands for hotels are increased. Using Airbnb could be your side business.
 Then how can you make money from that? We need to analyze the data from well booking and not well booking properties and get some tips.
 
+In the last, we will check if our prediction is right or not with using machine learning model from our model.
+
 # Questions for this data
 ## 1. What changes the price?
 **We need to check correlation**
@@ -25,3 +27,7 @@ Then how can you make money from that? We need to analyze the data from well boo
      - 2-3-1, Do owners who have more propaties earn more money than owners who have less propaties? or Do owners with experiences for longer time earn more money than 
       - (This is based on the idea that more experiences of sharing rooms/houses increases profits.)
      - 2-3-2, Owner's reliability/hospitality
+
+---
+# Machine Learning Model
+- We will use scikit learn to make LinearRegression model.
