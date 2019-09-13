@@ -61,8 +61,9 @@ How do people who sells their properties well make the business? We will compare
 
 # <a id="results" href="#results">Results</a>
 ## Question 1 : What changes the price?
+- Prices varies even if accommodations and type of room are the same.
 <p align="center">
- <img src="intersection_price.jpg">
+ <img src="scatter.jpg">
 </p>
 - location(city), room_type and accommodates effect the change of prices.
 
