@@ -70,12 +70,13 @@ How do people who sells their properties well make the business? We will compare
 - location(city), room_type and accommodates effect the change of prices.
 
 <p align="center">
- <img src=price_variation.jpg">
+ <img src="price_variation.jpg">
 </p>
 
 ## Question 2 : How can we get more money from AirBnB business?
  - Checked distributions of properties price
  - **2-1) What makes more booked listings? or less booked listings?**
+     - We compared prices distribution between more booked and less booked properties.
      - Can be said properties with under 300 dollars are easier booked
      
 <p align="center">
