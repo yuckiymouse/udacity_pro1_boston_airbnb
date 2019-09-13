@@ -70,6 +70,9 @@ How do people who sells their properties well make the business? We will compare
  - distributions of properties price
  - **2-1) What makes more booked listings? or less booked listings?**
      - Can be said properties with under 300 dollars are easier booked
+<p align="center">
+<img src="intersection_price.jpg">
+</p>
  - **2-2) What makes good review scores by customers?**
   - Even not well booked had as good scores as well booked. It seems like no link between how much booked and how good the review is. If you believe the review scores, you can say how much booked doesn't effect on the review scores.
 
