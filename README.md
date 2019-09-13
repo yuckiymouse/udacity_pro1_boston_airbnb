@@ -1,4 +1,4 @@
-![airbnb_logo]('./airbnb/jpg') 
+![airbnb_logo](/airbnb/jpg) 
 # Udacity project1 Boston Airbnb data
 
 Data Scientist Nanodegree Project 1
