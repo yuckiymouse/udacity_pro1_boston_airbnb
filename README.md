@@ -85,13 +85,13 @@ How do people who sells their properties well make the business? We will compare
 
  - **2-2) What makes good review scores by customers?**
   - Well booked and not well booked properties seems to have similar reviews....
-   - A difference is about 2 points in mean
-   - Minimum scores are the same
-   - Standard deviation's difference is about 0.1 points
+    - A difference is about 2 points in mean
+    - Minimum scores are the same
+    - Standard deviation's difference is about 0.1 points
 
   - The ratio of scores over 90 is different from well booked and less booked.
-   - about 67% of reviews for well booked is over 90
-   - about 59% of reviews for less booked is over 90 
+    - about 67% of reviews for well booked is over 90
+    - about 59% of reviews for less booked is over 90 
 
   - It might suggest that you can't judge how well the properties can be booked by just reviews.
   
