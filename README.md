@@ -61,6 +61,9 @@ How do people who sells their properties well make the business? We will compare
 
 # <a id="results" href="#results">Results</a>
 ## Question 1 : What changes the price?
+<p align="center">
+ <img src="intersection_price.jpg">
+</p>
 - location(city), room_type and accommodates effect the change of prices.
 
 ## Question 2 : How can we get more money from AirBnB business?
