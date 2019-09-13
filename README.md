@@ -99,5 +99,6 @@ How do people who sells their properties well make the business? We will compare
  <img style="float: right;" src="less_booked_score.jpg">
 </p>
 
+
 # <a id="licensing" href="#licensing">Licensing, Authors, and Acknowledgements</a>
 Credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston). Otherwise, feel free to use the code here as you would like!
