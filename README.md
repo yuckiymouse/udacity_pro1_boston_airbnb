@@ -1,7 +1,11 @@
-<img src="makemoney.jpg" width=35%>
+<p align="center">
+ <img src="makemoney.jpg" width=35% title="makemoney_airbnb">
+</p>
 
 # Udacity project 1 Boston Airbnb data
-![logo](/airbnb.jpg)
+<p align="center">
+ <img src=""  title="airbnb">
+</p>
 
 Data Scientist Nanodegree Project 1
 Data is provided by Kaggle Dataset https://www.kaggle.com/airbnb/boston/downloads/boston-airbnb-open-data.zip/1
