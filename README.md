@@ -49,7 +49,6 @@ How do people who sells their properties well make the business? We will compare
 # <a id="files" href="#files">File descriptions</a>
 - `how-do-you-set-the-price-for-airbnb.ipynb` : Code for analysis. Run on jupyter notebook.
 - `README.md` : You are reading now
-- `_config.yml` : 
 
 # <a id="environment" href="#environment">Envionment</a>
 - python 3.x
