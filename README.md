@@ -86,9 +86,9 @@ How do people who sells their properties well make the business? We will compare
  - **2-2) What makes good review scores by customers?**
   - Even not well booked had as good scores as well booked. It seems like no link between how much booked and how good the review is. If you believe the review scores, you can say how much booked doesn't effect on the review scores.
   
-<p align="center">
- <img src="more_booked.score.jpg">
- <img src="less_booked_score.jpg">
+<p>
+ <img style="float: left;" src="well_booked_score.jpg">
+ <img style="float: right;" src="less_booked_score.jpg">
 </p>
 
 # <a id="licensing" href="#licensing">Licensing, Authors, and Acknowledgements</a>
