@@ -7,9 +7,16 @@ Data size is too big to upload in Github repository.
 License CC0: Public Domain
 
 ---
-# How can you sell your properties on Airbnb?
-More travelers go around the world today and the demands for hotels are increased. Using Airbnb could be your side business.
-Then how can you make money from that? We need to analyze the data from well booking and not well booking properties and get some tips.
+# Why I analyze the data from Airbnb
+I choose this data because I'm interested at sharing economy and big data. 
+In 2020 Olympic will be held in Japan and existing hotels won't be enough for domestic and global tourists. 
+Therefore, sharing houses have demands for solving that issues. Maybe this will be a fortune as your business.
+Do you want to join Airbnb? Do you think you make money from this or not?
+If you join Airbnb as a newbie, how do you start?
+
+# At first, how can you sell your peoperties?
+The most interesting thing must be ... whether you can get customers or not. Especially at the first time.
+How do people who sells their properties well make the business? We will compare the tendency between well sold properties and the opposit.
 
 # Questions for this data
 ## 1. What changes the price?
