@@ -1,10 +1,10 @@
 <p align="center">
- <img src="makemoney.jpg" width=35% title="makemoney_airbnb">
+ <img src="makemoney.jpg" width=50% title="makemoney_airbnb">
 </p>
 
 # Udacity project 1 Boston Airbnb data
 <p align="center">
- <img src=""  title="airbnb">
+ <img src="airbnb_money.png" width=80% title="airbnb">
 </p>
 
 Data Scientist Nanodegree Project 1
