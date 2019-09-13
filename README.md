@@ -61,19 +61,27 @@ How do people who sells their properties well make the business? We will compare
 
 # <a id="results" href="#results">Results</a>
 ## Question 1 : What changes the price?
-- Prices varies even if accommodations and type of room are the same.
+### Prices varies even if accommodations and type of room are the same.
+
 <p align="center">
  <img src="scatter.jpg">
 </p>
+
 - location(city), room_type and accommodates effect the change of prices.
 
+<p align="center">
+ <img src=price_variation.jpg">
+</p>
+
 ## Question 2 : How can we get more money from AirBnB business?
- - distributions of properties price
+ - Checked distributions of properties price
  - **2-1) What makes more booked listings? or less booked listings?**
      - Can be said properties with under 300 dollars are easier booked
+     
 <p align="center">
 <img src="intersection_price.jpg">
 </p>
+
  - **2-2) What makes good review scores by customers?**
   - Even not well booked had as good scores as well booked. It seems like no link between how much booked and how good the review is. If you believe the review scores, you can say how much booked doesn't effect on the review scores.
 
