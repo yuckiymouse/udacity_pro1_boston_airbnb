@@ -47,7 +47,7 @@ How do people who sells their properties well make the business? We will compare
  - 2-2) What makes good review scores by customers?
  
 # <a id="files" href="#files">File descriptions</a>
-- `boston-airbnb-data.ipynb` : Code for analysis. Run on jupyter notebook.
+- `how-do-you-set-the-price-for-airbnb.ipynb` : Code for analysis. Run on jupyter notebook.
 - `README.md` : You are reading now
 - `_config.yml` : 
 
